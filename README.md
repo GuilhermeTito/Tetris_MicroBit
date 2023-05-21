@@ -1,3 +1,7 @@
+# Tetris para o BBC Micro Bit
+
+Minha prima ganhou um BBC Micro Bit na escola, e isso me deu a ideia de tentar fazer uma cópia de Tetris para ele. Ainda estou aprendendo como funciona programar para ele.
+
 
 > Abrir essa página em [https://guilhermetito.github.io/tetris_microbit/](https://guilhermetito.github.io/tetris_microbit/)
 
